@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #5e5e5e;
+    color:white;
+    font-size:14px;
+}
+ul {
+    list-style:none;
+    display: flex;
+    width:1000px;
+    height:44px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center
+}
+
+li:hover {
+    cursor:pointer;
+    opacity:0.7;
+}
+
+li {
+    transition: all .3s;
+}
+
+.logo {
+    font-size: 1.5em
+}
+
+.top_heading {
+    font-size:30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:red;
+
+}
