@@ -98,6 +98,14 @@ body {
     background-position: center; 
 }
 
+.main1 {
+    height: 500px;
+    width: 100%;
+    background-image: url("https://www.thoughtco.com/thmb/WoAb7bntUYsETFWEic-JR1UPK64=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-585287653-5bbcb1cdc9e77c0051019872.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center;
+}
 .main-1 {
     padding-top: 60px;
     margin-left: 30px;
