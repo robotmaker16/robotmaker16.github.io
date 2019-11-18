@@ -85,7 +85,7 @@ body {
     transition: all .6s;
 }
 .navbar-logo img:hover {
-    transform: rotate(360deg);
+    transform: rotate(720deg);
 }
 
 /* Main Image */
